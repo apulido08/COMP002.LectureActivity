@@ -1,1 +1,1 @@
-console.log("External javasript ran!")
+console.log("External javascript ran!")
